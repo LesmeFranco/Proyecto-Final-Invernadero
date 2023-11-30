@@ -1,7 +1,6 @@
 //Incluyo Librerias
 #include <stdio.h>
 #include "pico/stdlib.h"
-#include <dht.h>
 #include "hardware/pio.h"
 #include "hardware/adc.h"
 #include "hardware/i2c.h"
